@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Inconsolata:wght@200..900&display=swap');
+
+:root {
+    --AzuL-escuro: #2e5266ff;
+    --Cinza-forte: #6e8898ff;
+    --cinza-claro: #9fb1bcff;
+    --Bege-acizentado: #d3d0cbff;
+
+    --titulo:"Alfa Slab One", serif;
+    --texto: "Inconsolata", monospace;
+}
