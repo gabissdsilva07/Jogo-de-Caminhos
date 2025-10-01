@@ -9,3 +9,7 @@
     --titulo:"Alfa Slab One", serif;
     --texto: "Inconsolata", monospace;
 }
+body{
+background-color: var(--Bege-acizentado);
+font-family: var(--texto);
+}
