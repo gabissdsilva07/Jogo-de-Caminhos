@@ -39,3 +39,10 @@ background-color: var(--AzuL-escuro);
 color: var(--Bege-acizentado);
 transition: 0.5;
 }
+.passo{
+display: none;
+}
+
+.passo.ativo{
+    display: block;
+}
